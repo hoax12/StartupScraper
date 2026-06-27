@@ -68,7 +68,7 @@ output:
   markdown_dir: "./output"
 
   # Email recipient for digest delivery
-  email_to: "shreyashkakde46@gmail.com"
+  email_to: "your-email@example.com"
 
 # Tier configuration
 tiers:
