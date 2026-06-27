@@ -6,7 +6,7 @@
 
 search:
   # Search engine to use: "searxng" or "serper"
-  engine: "searxng"
+  engine: "serper"
   
   # URL to your local SearXNG instance (used if engine is "searxng")
   searxng_url: "http://localhost:8080"
@@ -68,7 +68,7 @@ output:
   markdown_dir: "./output"
 
   # Email recipient for digest delivery
-  email_to: "your-email@example.com"
+  email_to: "shreyashkakde46@gmail.com"
 
 # Tier configuration
 tiers:
